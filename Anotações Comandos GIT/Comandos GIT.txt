@@ -1,0 +1,34 @@
+Comandos GIt
+
+DIR - Comando de Listagem
+
+CD / - Para Entrar na Pasta Especifica !
+
+CD .. - Para Voltar o Diretorio
+
+CLS - Limpar o Terminal
+
+Mkdir - Criar Pasta
+
+DEL - Deletar Arquivos
+
+RMDIR - Remover Pasta
+
+MV - Mover arquivos
+
+
+---------------------------------------------------------
+
+CICLO GIT
+
+PRIMEIRO TEM QUE DAR O COMANDO 
+
+GIT ADD *
+
+DEPOS TEM QUE COMMITAR 
+
+GIT COMMIT -m "MENSAGEM AQUI"
+
+POR ULTIMO VOCÊ TEM QUE EMPURRAR O COMIT PRO GIT HUB
+
+GIT PUSH  ORIGIN MAIN
